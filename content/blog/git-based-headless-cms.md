@@ -171,10 +171,6 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 #### Key Features
 - Platform-agnostic
 
-- just for testing
-
-- just for testing 2
-
 - Easy installation
 
 - Modern authentication
