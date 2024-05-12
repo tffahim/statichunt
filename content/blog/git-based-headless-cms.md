@@ -179,8 +179,7 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 
 - Fully extensible
 
-![image](/blog/11ty.png "")undefined
-![image](/blog/11ty.png "")undefined
+![image](/blog/11ty.png "")
 - Fast, web-based UI
 
 <Button href="https://spinalcms.com/" >Learn More </Button>
