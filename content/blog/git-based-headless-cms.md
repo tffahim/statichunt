@@ -59,16 +59,13 @@ Free Plan available.Premium plans starts from $29/month **
 
 <Button href="https://tina.io/" >Learn More </Button>
 ### Decap CMS (formerly Netlify CMS)
-
 <Mockup src="/blog/decap-cms.png" alt="Decap headless cms" />
 Free <br/>
 Open Source <br/>
 All
 #### Key Features
 - Platform agnostic
-
 - Easy installation
-
 - Modern authentication
 
 - Flexible content types
@@ -79,7 +76,7 @@ All
 
 <Button href="https://decapcms.org/" >Learn More </Button>
 ### CloudCannon
-CloudCannon is a powerful, Git-based Headless CMS designed for static site generators and modern web applications. It offers a user-friendly interface, flexible content modeling, and automated workflows, enabling developers and content creators to collaborate efficiently and deliver fast, scalable, and secure content experiences. With CloudCannon, you can manage your content with ease and deploy it to any platform or device.
+
 <Mockup src="/blog/cloudcannon-cms.png" alt="Cloudcannon headless cms" />
 Start from $45/month (14 days Free trial available)<br/>
 Closed Source <br/>
