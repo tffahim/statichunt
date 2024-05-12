@@ -84,9 +84,7 @@ Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 - Globalization
 - Digital Asset Management (DAM uploads)
 - Git based version control
-
 - Testing domains
-
 <Button href="https://cloudcannon.com/" >Learn More </Button>
 ### Contentrain
 <Mockup src="/blog/contentrain-cms.png" alt="Contentrain headless cms" />
@@ -99,9 +97,7 @@ NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPre
 - Markdown file support.
 - Customize your Content Team with granular roles.
 - Gain granular control over collaboration dynamics.
-
 - In-app Merge Management options.
-
 - Webhooks to connect and create automations with your favourite 3rd party marketing tools.
 
 - No-code Content Schema tool.
@@ -117,9 +113,7 @@ Hugo
 - Zero config
 - Multi user support
 - Multilingual support
-
 - Mobile first layout
-
 - Integrated analytics
 
 - WYSIWYG editor
@@ -136,17 +130,14 @@ Hugo
 
 <Button href="https://cms.usecue.com/" >Learn More </Button>
 ### Spinal
-
 <Mockup src="/blog/spinal-cms.png" alt="Spinal headless cms" />
 Starts from 29$ (Free trial available) <br/>
 Git-based <br/>
 Closed Source <br/>
-Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, VitePress, Nuxt, Hexo, Zola
+~~Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, VitePress, Nuxt, Hexo, Zola~~
 #### Key Features
 - Platform-agnostic
-
 - Easy installation
-
 - Modern authentication
 
 - Flexible content types
