@@ -1,6 +1,6 @@
 ---
 title: Best Git-Based Headless CMS for Static Sites for 2024
-date: 2025-04-25T00:00:00.000Z
+date: 2024-05-12T00:00:00.000Z
 meta_title: Best Git-Based Headless CMS for Static Sites - Statichunt
 description: >-
   Struggling to manage content for your static site? Discover the top Git-based
@@ -13,7 +13,7 @@ categories:
   - static site generators
   - headless cms
 sponsored: false
-draft: false
+draft: true
 ---
 
 <a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for editors to update the website easily.
