@@ -171,6 +171,10 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 #### Key Features
 - Platform-agnostic
 
+- just for testing
+
+- just for testing 2
+
 - Easy installation
 
 - Modern authentication
@@ -182,4 +186,4 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 - Fast, web-based UI
 
 <Button href="https://spinalcms.com/" >Learn More </Button>
-![image](/blog/11ty.png "")undefined
+undefined
