@@ -69,9 +69,7 @@ All
 - Modern authentication
 - Flexible content types
 - Fully extensible
-
 - Fast, web-based UI
-
 <Button href="https://decapcms.org/" >Learn More </Button>
 ### CloudCannon
 <Mockup src="/blog/cloudcannon-cms.png" alt="Cloudcannon headless cms" />
@@ -82,9 +80,7 @@ Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 - User roles and permissions
 - Authentication
 - Scheduling
-
 - Visual, Content & Source Editors
-
 - Globalization
 
 - Digital Asset Management (DAM uploads)
@@ -95,16 +91,13 @@ Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 
 <Button href="https://cloudcannon.com/" >Learn More </Button>
 ### Contentrain
-
 <Mockup src="/blog/contentrain-cms.png" alt="Contentrain headless cms" />
 Free Plan available.Premium plans starts from $79 <br/>
 Closed Source <br/>
 NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPress, Angular, Svelte, Docusaurus, All
 #### Key Features
 - Plug and play Headless CMS for a structured content workflow.
-
 - Master your content architecture and collaborate with your Developer and Content Teams.
-
 - Markdown file support.
 
 - Customize your Content Team with granular roles.
@@ -119,7 +112,7 @@ NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPre
 
 <Button href="https://contentrain.io/" >Learn More </Button>
 ### Usecue CMS
-Usecue CMS is a Git-based headless CMS specifically designed for Hugo static websites. It offers zero-configuration setup, a WYSIWYG editor, and multi-user support, making content management easy for editors while giving developers full Git control.
+
 <Mockup src="/blog/usecue-cms.png" alt="Usecue headless cms" />
 Starts from €30/month <br/>
 Git based <br/>
