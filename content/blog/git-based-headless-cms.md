@@ -32,8 +32,7 @@ This article will explore the top Git-based headless CMS options for static site
 
 ## Top Git-Based Headless CMS Options
 ### Tina CMS
-**TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
-****
+## **TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
 Free Plan available.Premium plans starts from $29/month **
 #### Key Features
 - Real-time editing
@@ -60,7 +59,7 @@ Free Plan available.Premium plans starts from $29/month **
 
 <Button href="https://tina.io/" >Learn More </Button>
 ### Decap CMS (formerly Netlify CMS)
-Decap CMS is a lightweight, Git-based Headless CMS that empowers developers and content creators to build fast, scalable, and omnichannel content experiences. With its minimalistic approach, flexible content modeling, and automated workflows, Decap CMS streamlines content management for static site generators and modern web applications, allowing teams to collaborate seamlessly and deliver content with ease.
+
 <Mockup src="/blog/decap-cms.png" alt="Decap headless cms" />
 Free <br/>
 Open Source <br/>
