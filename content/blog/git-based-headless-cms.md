@@ -119,24 +119,8 @@ Hugo
 - Shortcode support
 - Form handling
 - Instant pageloads
-
 - Commit messages
-
 - SVG support
 
 <Button href="https://cms.usecue.com/" >Learn More </Button>
 ### Spinal
-<Mockup src="/blog/spinal-cms.png" alt="Spinal headless cms" />
-Starts from 29$ (Free trial available) <br/>
-Git-based <br/>
-Closed Source <br/>
-~~Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, VitePress, Nuxt, Hexo, Zola~~
-#### Key Features
-- Platform-agnostic
-- Easy installation
-- Modern authentication
-- Flexible content types
-- Fully extensible
-- Fast, web-based UI
-<Button href="https://spinalcms.com/" >Learn More </Button>
-undefined
