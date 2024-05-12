@@ -61,6 +61,7 @@ All <br/>
 
 - Access control
 
+> There is a lot of issues with these cms
 <Button href="https://tina.io/" >Learn More </Button>
 ### Decap CMS (formerly Netlify CMS)
 Decap CMS is a lightweight, Git-based Headless CMS that empowers developers and content creators to build fast, scalable, and omnichannel content experiences. With its minimalistic approach, flexible content modeling, and automated workflows, Decap CMS streamlines content management for static site generators and modern web applications, allowing teams to collaborate seamlessly and deliver content with ease.
