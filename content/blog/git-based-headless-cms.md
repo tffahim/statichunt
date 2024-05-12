@@ -32,7 +32,7 @@ draft: false
 
 ## Top Git-Based Headless CMS Options
 ### Tina CMS
-## **TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
+## **undefined is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
 **Free Plan available.Premium plans starts from $29/month** **
 #### Key Features
 - Real-time editing
