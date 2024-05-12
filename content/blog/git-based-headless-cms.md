@@ -82,9 +82,7 @@ Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 - Scheduling
 - Visual, Content & Source Editors
 - Globalization
-
 - Digital Asset Management (DAM uploads)
-
 - Git based version control
 
 - Testing domains
@@ -99,9 +97,7 @@ NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPre
 - Plug and play Headless CMS for a structured content workflow.
 - Master your content architecture and collaborate with your Developer and Content Teams.
 - Markdown file support.
-
 - Customize your Content Team with granular roles.
-
 - Gain granular control over collaboration dynamics.
 
 - In-app Merge Management options.
@@ -112,7 +108,6 @@ NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPre
 
 <Button href="https://contentrain.io/" >Learn More </Button>
 ### Usecue CMS
-
 <Mockup src="/blog/usecue-cms.png" alt="Usecue headless cms" />
 Starts from €30/month <br/>
 Git based <br/>
@@ -120,9 +115,7 @@ Closed Source <br/>
 Hugo
 #### Key Features
 - Zero config
-
 - Multi user support
-
 - Multilingual support
 
 - Mobile first layout
@@ -143,7 +136,7 @@ Hugo
 
 <Button href="https://cms.usecue.com/" >Learn More </Button>
 ### Spinal
-Spinal boasts a sleek and minimalist interface that puts your content front and center, ensuring it remains the main attraction. Additionally, Spinal enables seamless collaboration among team members, allowing them to work together on specific or all content aspects of your static site generator, promoting a unified and efficient content creation process.
+
 <Mockup src="/blog/spinal-cms.png" alt="Spinal headless cms" />
 Starts from 29$ (Free trial available) <br/>
 Git-based <br/>
