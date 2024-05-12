@@ -7,10 +7,13 @@ description: >-
   headless CMS options that empower developers with code-based control and give
   editors a user-friendly interface.
 image: /blog/headless-cms.png
-authors: []
+authors:
+  - Mehedi sharif
 categories:
   - static site generators
   - headless cms
+  - New Value
+  - New Value
 sponsored: false
 draft: false
 ---
@@ -115,7 +118,6 @@ Hugo
 - WYSIWYG editor
 - Shortcode support
 - Form handling
-
 - Instant pageloads
 
 - Commit messages
@@ -136,6 +138,5 @@ Closed Source <br/>
 - Flexible content types
 - Fully extensible
 - Fast, web-based UI
-
 <Button href="https://spinalcms.com/" >Learn More </Button>
 undefined
