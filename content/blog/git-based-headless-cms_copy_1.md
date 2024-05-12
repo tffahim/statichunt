@@ -68,7 +68,7 @@ Decap CMS is a lightweight, Git-based Headless CMS that empowers developers and 
 Free <br/>
 Open Source <br/>
 All
-#### Key Features
+# Key Features
 - Platform agnostic
 
 - Easy installation
@@ -182,4 +182,4 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 - Fast, web-based UI
 
 <Button href="https://spinalcms.com/" >Learn More </Button>
-![image](/blog/11ty.png "")undefined
+undefined
