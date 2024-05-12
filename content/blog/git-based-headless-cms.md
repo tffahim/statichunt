@@ -67,25 +67,20 @@ All
 - Platform agnostic
 - Easy installation
 - Modern authentication
-
 - Flexible content types
-
 - Fully extensible
 
 - Fast, web-based UI
 
 <Button href="https://decapcms.org/" >Learn More </Button>
 ### CloudCannon
-
 <Mockup src="/blog/cloudcannon-cms.png" alt="Cloudcannon headless cms" />
 Start from $45/month (14 days Free trial available)<br/>
 Closed Source <br/>
 Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 #### Key Features
 - User roles and permissions
-
 - Authentication
-
 - Scheduling
 
 - Visual, Content & Source Editors
@@ -100,7 +95,7 @@ Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 
 <Button href="https://cloudcannon.com/" >Learn More </Button>
 ### Contentrain
-Contentrain is a modern, Git-based Headless CMS that streamlines content management for static site generators and modern web applications. With its intuitive interface, flexible content modeling, and automated workflows, Contentrain enables developers and content creators to collaborate seamlessly, delivering fast, scalable, and omnichannel content experiences.
+
 <Mockup src="/blog/contentrain-cms.png" alt="Contentrain headless cms" />
 Free Plan available.Premium plans starts from $79 <br/>
 Closed Source <br/>
