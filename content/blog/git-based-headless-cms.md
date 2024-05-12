@@ -18,7 +18,7 @@ sponsored: false
 draft: false
 ---
 
-<a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for 
+<a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for
 ## Advantages of Git-Based Headless CMS
 - **Version Control:** Git-based headless CMS provides a robust version control system, allowing developers to track changes, collaborate, and roll back to previous versions if needed.
 
@@ -33,7 +33,7 @@ draft: false
 ## Top Git-Based Headless CMS Options
 ### Tina CMS
 ## **TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
-Free Plan available.Premium plans starts from $29/month **
+**Free Plan available.Premium plans starts from $29/month** **
 #### Key Features
 - Real-time editing
 
