@@ -1,6 +1,6 @@
 ---
 title: Best Git-Based Headless CMS for Static Sites for 2024
-date: 2024-04-25T05:00:00.000Z
+date: 2025-04-25T00:00:00.000Z
 meta_title: Best Git-Based Headless CMS for Static Sites - Statichunt
 description: >-
   Struggling to manage content for your static site? Discover the top Git-based
@@ -34,12 +34,9 @@ This article will explore the top Git-based headless CMS options for static site
 ### Tina CMS
 TinaCMS is a free and open-source headless CMS focused on providing the best developer experience for building web sites and applications.
 <Mockup src="/blog/tina-cms.png" alt="Tina headless cms" />
- Free Plan available.Premium plans starts from $29/month <br/>
-
+Free Plan available.Premium plans starts from $29/month <br/>
 Git + API <br/>
-
 Open Source <br/>
-
 All <br/>
 #### Key Features
 - Real-time editing
@@ -68,9 +65,9 @@ All <br/>
 ### Decap CMS (formerly Netlify CMS)
 Decap CMS is a lightweight, Git-based Headless CMS that empowers developers and content creators to build fast, scalable, and omnichannel content experiences. With its minimalistic approach, flexible content modeling, and automated workflows, Decap CMS streamlines content management for static site generators and modern web applications, allowing teams to collaborate seamlessly and deliver content with ease.
 <Mockup src="/blog/decap-cms.png" alt="Decap headless cms" />
- Free <br/>
- Open Source <br/>
- All
+Free <br/>
+Open Source <br/>
+All
 #### Key Features
 - Platform agnostic
 
@@ -88,9 +85,9 @@ Decap CMS is a lightweight, Git-based Headless CMS that empowers developers and 
 ### CloudCannon
 CloudCannon is a powerful, Git-based Headless CMS designed for static site generators and modern web applications. It offers a user-friendly interface, flexible content modeling, and automated workflows, enabling developers and content creators to collaborate efficiently and deliver fast, scalable, and secure content experiences. With CloudCannon, you can manage your content with ease and deploy it to any platform or device.
 <Mockup src="/blog/cloudcannon-cms.png" alt="Cloudcannon headless cms" />
- Start from $45/month (14 days Free trial available)<br/>
-  Closed Source <br/>
- Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
+Start from $45/month (14 days Free trial available)<br/>
+Closed Source <br/>
+Jekyll, Hugo, 11ty, SvelteKit, Next.js, Gatsby, Nuxt, Astro, MkDocs
 #### Key Features
 - User roles and permissions
 
@@ -112,9 +109,9 @@ CloudCannon is a powerful, Git-based Headless CMS designed for static site gener
 ### Contentrain
 Contentrain is a modern, Git-based Headless CMS that streamlines content management for static site generators and modern web applications. With its intuitive interface, flexible content modeling, and automated workflows, Contentrain enables developers and content creators to collaborate seamlessly, delivering fast, scalable, and omnichannel content experiences.
 <Mockup src="/blog/contentrain-cms.png" alt="Contentrain headless cms" />
- Free Plan available.Premium plans starts from $79 <br/>
- Closed Source <br/>
- NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPress, Angular, Svelte, Docusaurus, All
+Free Plan available.Premium plans starts from $79 <br/>
+Closed Source <br/>
+NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPress, Angular, Svelte, Docusaurus, All
 #### Key Features
 - Plug and play Headless CMS for a structured content workflow.
 
@@ -136,10 +133,10 @@ Contentrain is a modern, Git-based Headless CMS that streamlines content managem
 ### Usecue CMS
 Usecue CMS is a Git-based headless CMS specifically designed for Hugo static websites. It offers zero-configuration setup, a WYSIWYG editor, and multi-user support, making content management easy for editors while giving developers full Git control.
 <Mockup src="/blog/usecue-cms.png" alt="Usecue headless cms" />
- Starts from €30/month <br/>
- Git based <br/>
- Closed Source <br/>
- Hugo
+Starts from €30/month <br/>
+Git based <br/>
+Closed Source <br/>
+Hugo
 #### Key Features
 - Zero config
 
@@ -167,10 +164,10 @@ Usecue CMS is a Git-based headless CMS specifically designed for Hugo static web
 ### Spinal
 Spinal boasts a sleek and minimalist interface that puts your content front and center, ensuring it remains the main attraction. Additionally, Spinal enables seamless collaboration among team members, allowing them to work together on specific or all content aspects of your static site generator, promoting a unified and efficient content creation process.
 <Mockup src="/blog/spinal-cms.png" alt="Spinal headless cms" />
- Starts from 29$ (Free trial available) <br/>
- Git-based <br/>
- Closed Source <br/>
- Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, VitePress, Nuxt, Hexo, Zola
+Starts from 29$ (Free trial available) <br/>
+Git-based <br/>
+Closed Source <br/>
+Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, VitePress, Nuxt, Hexo, Zola
 #### Key Features
 - Platform-agnostic
 
