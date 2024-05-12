@@ -183,8 +183,3 @@ Astro, 11ty, Hugo, Jekyll, Middleman, Bridgetown, Next.js, Gatsby, VuePress, Vit
 
 <Button href="https://spinalcms.com/" >Learn More </Button>
 ![image](/blog/11ty.png "")undefined
-undefined
-undefined
-undefined
-undefined
-undefined
