@@ -26,7 +26,7 @@ This article will explore the top Git-based headless CMS options for static site
 
 - **Security:** Git-based headless CMS provides a secure content management system, as content is stored in Git, which is widely considered secure.
 
-- **Collaboration:** Developers and content creators can collaborate seamlessly, using familiar tools and editors, making content creation and management more efficient.
+- **Collaboration:** ~~Developers and content creators~~ can collaborate seamlessly, using familiar tools and editors, making content creation and management more efficient.
 
 - **Reduced Vendor Lock-in:** A Git-based headless CMS decouples content from the presentation layer, reducing vendor lock-in and allowing for easier migration to new platforms.
 
@@ -99,9 +99,7 @@ NuxtJs, NextJs, Gatsby, 11ty, Jekyll, Gridsome, Hugo, React, Vue, Astro, VietPre
 - Gain granular control over collaboration dynamics.
 - In-app Merge Management options.
 - Webhooks to connect and create automations with your favourite 3rd party marketing tools.
-
 - No-code Content Schema tool.
-
 <Button href="https://contentrain.io/" >Learn More </Button>
 ### Usecue CMS
 <Mockup src="/blog/usecue-cms.png" alt="Usecue headless cms" />
@@ -115,9 +113,7 @@ Hugo
 - Multilingual support
 - Mobile first layout
 - Integrated analytics
-
 - WYSIWYG editor
-
 - Shortcode support
 
 - Form handling
@@ -139,9 +135,7 @@ Closed Source <br/>
 - Platform-agnostic
 - Easy installation
 - Modern authentication
-
 - Flexible content types
-
 - Fully extensible
 
 - Fast, web-based UI
