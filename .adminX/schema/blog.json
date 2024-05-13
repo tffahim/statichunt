@@ -16,7 +16,8 @@
       "label": "Date",
       "name": "date",
       "type": "Date",
-      "value": ""
+      "value": "",
+      "description": "Let's know each other"
     },
     {
       "label": "Meta Title",
