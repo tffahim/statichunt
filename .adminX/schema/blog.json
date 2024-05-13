@@ -8,7 +8,9 @@
       "label": "Title",
       "name": "title",
       "type": "string",
-      "value": ""
+      "value": "",
+      "isRequired": true,
+      "description": "Its all about me..Humans..meet me ...i am the cutest Cat alive."
     },
     {
       "label": "Date",
