@@ -17,13 +17,14 @@
       "name": "date",
       "type": "Date",
       "value": "",
-      "description": "Let's know each other"
+      "description": ""
     },
     {
       "label": "Meta Title",
       "name": "meta_title",
       "type": "string",
-      "value": ""
+      "value": "",
+      "description": "Let's know each other"
     },
     {
       "label": "Description",
