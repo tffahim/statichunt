@@ -9,7 +9,7 @@ authors:
 categories:
   - Fun post
 sponsored: true
-draft: true
+draft: false
 ---
 
 Hey there internet humans!
