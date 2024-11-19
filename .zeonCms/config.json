@@ -1,11 +1,14 @@
 {
   "media": {
-    "root": "public/images",
-    "public": "public"
+    "root": "config",
+    "public": "config"
   },
   "content": {
     "root": "pages"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    ".adminX",
+    ".adminX/schema"
+  ],
   "arrangement": {}
 }
