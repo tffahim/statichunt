@@ -8,7 +8,8 @@
   },
   "themeConfig": [
     ".adminX",
-    ".adminX/schema"
+    ".adminX/schema",
+    "pages/index.js"
   ],
   "arrangement": {}
 }
