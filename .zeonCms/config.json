@@ -1,0 +1,11 @@
+{
+  "media": {
+    "root": "content/blog",
+    "public": "content"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [],
+  "arrangement": {}
+}
