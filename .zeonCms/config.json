@@ -1,6 +1,6 @@
 {
   "media": {
-    "root": "content",
+    "root": "content/blog",
     "public": "content"
   },
   "content": {
